@@ -2,4 +2,6 @@
 .idea
 .kotlin
 build
+debug
+release
 local.properties
